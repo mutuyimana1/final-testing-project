@@ -1,0 +1,12 @@
+.home-content{
+    background-image: linear-gradient(#54714ea3,#18382d8e), url("../images/pexels-andrea-piacquadio-3807226.jpg");
+    height: 95vh;
+    background-size: cover;
+    background-position: center center;
+    clip-path:polygon(0 0, 100% 0, 100% 80vh,0 100%);
+    color: white;
+    text-align: center;
+    font-size: 82px;
+    padding-top: 80px;
+    
+}
