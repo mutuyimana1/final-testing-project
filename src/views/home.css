@@ -5,8 +5,37 @@
     background-position: center center;
     clip-path:polygon(0 0, 100% 0, 100% 80vh,0 100%);
     color: rgb(222, 203, 203);
-    text-align: center;
-    font-size: 50px;
-    padding-top: 80px;
     
+    
+}
+.home-content h1{
+    font-size: 40px;
+    padding-top: 90px;
+    padding-left: 35%;
+    
+}
+.logo{
+    background-color: #dbede68e;
+    clip-path:polygon(0 0, 10% 0, 100% 0,0 100%);
+}
+.logo img{
+   width: 100px;
+   padding-left: 50px;
+
+}
+.card{
+background-color: white;
+width: 300px;
+padding: 20px;
+padding-bottom: 60px;
+color: black;
+height: auto;
+margin-left: 40%;
+
+}
+.card h3{
+    text-align: center;
+}
+.radio  {
+   padding-left: 50px;
 }
